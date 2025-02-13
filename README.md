@@ -60,3 +60,4 @@ Uniendo estas dos tablas podemos acceder a información de la preferencia de los
 
 <img width="976" alt="3 2" src="https://github.com/user-attachments/assets/5992d6d9-09c6-4c11-bb7c-58cfca81eb9d" />
 
+Una hipótesis viable, puede ser que el éxito de la comida Asiática se deba a su bajo costo.
